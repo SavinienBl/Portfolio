@@ -10,7 +10,7 @@
 |5|[Выбор лучшей локации для нефтяной скважины](https://github.com/SavinienBl/Portfolio/blob/60095aadb270109c570270026a5ae1f0526ae5a3/Project%205/Gold.ipynb)|Необходимо построить модель машинного обучения, которая поможет определить регион, где добыча нефти принесёт наибольшую прибыль.|`pandas` `seaborn` `sklearn` `scipy`|
 |6|[Предсказание коэффициента восстановления золота из золотосодержащей руды](https://github.com/SavinienBl/Portfolio/blob/8e0f251f4706179ebf82d04cf99e915a7cfe139f/Project%206/Rough.ipynb)|Необходимо подготовить прототип модели машинного обучения.Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды.|`pandas` `seaborn` `sklearn` `matplotlib` `numpy`|
 |7|[Защита персональных данных клиентов](https://github.com/SavinienBl/Portfolio/blob/7ab0a45469d59fb5b651d3a7c73867807a30a9b0/Project%207/Data%20protection%20(1).ipynb)|Нужно защитить данные, чтобы при преобразовании качество моделей машинного обучения не ухудшилось. Подбирать наилучшую модель не требуется.|`pandas` `numpy` `sklearn` `matplotlib`|
-|8|[]()|`pandas` `seaborn` `sklearn` `matplotlib`|
+|8|[Отток клиентов]()|Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Нам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.|`pandas` `seaborn` `sklearn` `fast_ml`|
 |9|[]()|`pandas` `seaborn` `sklearn` `matplotlib`|
 |10|[]()|`pandas` `seaborn` `sklearn` `matplotlib`|
 |11|[]()|`pandas` `seaborn` `sklearn` `matplotlib`|

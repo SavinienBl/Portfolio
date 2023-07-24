@@ -6,3 +6,4 @@
 * Python
 * NumPy
 * Scikit-learn
+* matplotlib

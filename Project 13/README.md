@@ -3,4 +3,12 @@
 ## Задачи проекта
 Спрогнозировать уход клиента
 ## Навыки и инструменты 
+* pandas
+* seaborn
+* matplotlib
+* phik
+* catboost
+* plotly
+* sklearn
+* lightgbm
 

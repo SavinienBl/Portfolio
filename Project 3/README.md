@@ -11,6 +11,7 @@
 * Pandas
 * Matplotlib
 * NumPy
-* SciPy
+* sklearn
+* fast_ml
 * описательная статистика
 * проверка статистических гипотез

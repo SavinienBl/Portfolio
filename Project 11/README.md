@@ -5,6 +5,9 @@
 ## Навыки и инструменты 
 * Python
 * Pandas
-* BERT
 * nltk
-* tf-idf
+* numpy
+* matplotlib
+* lightgbm
+* catboost
+* sklearn

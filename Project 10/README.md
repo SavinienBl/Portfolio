@@ -3,7 +3,9 @@
 ## Задачи проекта
 Разработка системы предсказания объема заказа.
 ## Навыки и инструменты 
-* Python
-* Pandas
-* Scikit-learn
-* statsmodels
+* pandas
+*  numpy
+*  matplotlib
+*  lightgbm
+*  catboost
+*  sklearn

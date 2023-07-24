@@ -7,3 +7,4 @@
 * Pandas
 * Matplotlib
 * Scikit-learn
+* fast_ml

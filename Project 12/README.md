@@ -5,3 +5,12 @@
 ## Навыки и инструменты 
 * Python
 * Keras
+* pandas
+*  seaborn
+*  matplotlib
+*  keras
+*  Adam
+*  ResNet50
+*  seaborn
+*  tensorflow
+*  PIL

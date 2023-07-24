@@ -17,3 +17,4 @@
 |12|[Определение возраста покупателей](https://github.com/SavinienBl/Portfolio/blob/ff3c152ff2a16f4aa1b4851a48ccef1b5d753def/Project%2012/Foto(2).ipynb)|Необходимо постройть модель, которая по фотографии определит приблизительный возраст человека.|`pandas` `seaborn` `matplotlib` `keras` `Adam` `ResNet50` `seaborn` `tensorflow` `PIL`|
 |13|[Прогнозирование оттока клиентов(Телеком)](https://github.com/SavinienBl/Portfolio/blob/8b4b3dc037afcb6731f2d451c39b6255f3401a52/Project%2013/Telecom%20(1).ipynb)|Оператор связи хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и договорах.|`pandas` `seaborn` `matplotlib`  `seaborn` `phik` `catboost` `plotly` `sklearn` `lightgbm`|
 # Контакты
+https://t.me/Nikitiuss
